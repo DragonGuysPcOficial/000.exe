@@ -1,8 +1,8 @@
 # 000.exe
+The (in)famous 000.exe virus.
 
-O (in)famoso vírus 000.exe.
+This is the full source code for 000.exe which was used and shown in the making-of video (https://www.youtube.com/watch?v=e_TYnADDsLQ). The "Initial commit" state is the exact state as displayed in the aforementioned video.
 
-Este é o código fonte completo para 000.exe que foi usado e mostrado no vídeo de making-of (https://www.youtube.com/watch?v=e_TYnADDsLQ). O estado "Initial commit" é o estado exato exibido no vídeo acima mencionado.
+## IMPORTANT
 
-**IMPORTANTE**
-Se você quiser executar isso sozinho, primeiro você precisa baixar o arquivo "globalKeyboardHook.cs" em https://www.codeproject.com/Articles/19004/A-Simple-C-Global-Low-Level-Keyboard-Hook . Como o arquivo está licenciado sob o CPOL v2.0, ele não é compatível com o GNU GPL v3.0 (fonte: https://www.gnu.org/licenses/license-list.en.html#cpol). Se você quiser construir isso sozinho, pegue o arquivo e coloque-o na pasta raiz do projeto.
+If you want to run this yourself, you first need to download the file "globalKeyboardHook.cs" from https://www.codeproject.com/Articles/19004/A-Simple-C-Global-Low-Level-Keyboard-Hook. Since the file is licensed under the CPOL v2.0, it is not compatible with the GNU GPL v3.0 (source: https://www.gnu.org/licenses/license-list.en.html#cpol). If you want to build this yourself, go and grab the file and place it **in the root folder of the project**.
